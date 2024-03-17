@@ -26,7 +26,7 @@ If you have suggestions, enhancements, or bug fixes, please feel free to open an
 
 Feel free to reach out if you have any questions or feedback:
 
-- Email: sanskar.sk1239@gmail.com
+- Email: sanskar.kannurkar@gmail.com
 
 You can visit my website from following link [Sanskar's Portfolio](https://scar2603.github.io/Portfolio/)
 
